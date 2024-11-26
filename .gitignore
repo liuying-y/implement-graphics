@@ -1,0 +1,7 @@
+.history
+.vscode
+node_modules
+.DS_STORE
+babylonjs/
+dist/
+log

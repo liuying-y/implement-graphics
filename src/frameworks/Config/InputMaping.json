@@ -1,0 +1,17 @@
+{
+    "ArrowUp": "up",
+    "KeyW": "up",
+    "ArrowLeft": "left",
+    "KeyA": "left",
+    "ArrowDown": "down",
+    "KeyS": "down",
+    "ArrowRight": "right",
+    "KeyD": "right",
+    "Space": "space",
+    "AltLeft": "alt",
+    "AltRight": "alt",
+    "ControlLeft": "ctrl",
+    "ControlRight": "ctrl",
+    "ShiftLeft": "shift",
+    "ShiftRight": "shift"
+}
